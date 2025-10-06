@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Matera Commits Finder",
+  "version": "1.0",
+  "description": "Abrir commits de um card no sources.matera.com",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "128": "icons/icon128.png"
+    }
+  },
+  "permissions": ["tabs"]
+}
